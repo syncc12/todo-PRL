@@ -2,7 +2,7 @@
 
 This application is located here: https://todo-patricklyden.herokuapp.com
 
-**Purpose:**<br>
+## Purpose:<br>
 This project allows the user to create and maintain a todo list.
 
 **Overview:**<br>
