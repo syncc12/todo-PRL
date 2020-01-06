@@ -3,6 +3,8 @@
 ## Application:<br>
 This application is located here: https://todo-patricklyden.herokuapp.com
 
+![Home_Page](../Saved-Images/Todo_Home_Page.png)
+
 ## Purpose:<br>
 This project allows the user to create and maintain a todo list.
 
